@@ -1,0 +1,9 @@
+I made the program better and easier to use. Now, it doesn't get confused if we type something wrong. Plus, we can see how fast each search is and which one is quicker.
+
+When searching in a list, I added a counter to see how many times the program checks each number. This helps me understand if the search is fast or slow.
+
+Instead of using a loop in the binary search, I made it talk to itself to find what I'm looking for. It's like solving a puzzle one piece at a time.
+
+I also added some checks to stop the program from getting confused if I type something strange, like a word instead of a number. It won't let me make a list that's empty or has negative numbers.
+
+Even though I didn't add a fancy timer, I can still see how many steps each search takes. Usually, the binary search takes fewer steps than the linear one, especially with a long list. This helps me understand why some searches are faster than others.
